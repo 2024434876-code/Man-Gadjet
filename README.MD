@@ -92,3 +92,4 @@ The project contains at least two Git commits:
 
 1. **First commit** – Initial word-count program and project setup.
 2. **Second commit** – Added character counting, empty-input handling and testing.
+"# Man-Gadjet" 
